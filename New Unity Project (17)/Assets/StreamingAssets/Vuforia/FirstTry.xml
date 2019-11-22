@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="image07" size="0.200000 0.087125" />
+    <ImageTarget name="a47b9b63371b4475ce3026c3d9f86d37" size="0.200000 0.129750" />
+    <ImageTarget name="50-ruble-front" size="0.200000 0.086250" />
+    <ImageTarget name="Troika_card" size="0.200000 0.127920" />
+    <ImageTarget name="rub" size="0.200000 0.088000" />
+    <ImageTarget name="orange" size="0.200000 0.112000" />
+    <ImageTarget name="pVMjw4VbEUY" size="1.000000 0.562577" />
+  </Tracking>
+</QCARConfig>

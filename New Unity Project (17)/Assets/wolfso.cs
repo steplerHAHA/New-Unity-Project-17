@@ -2,16 +2,21 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class NewBehaviourScript : MonoBehaviour
+public class wolfso : MonoBehaviour
 {
+    [SerializeField] AudioSource audio;
     // Start is called before the first frame update
     void Start()
     {
         
     }
-    public void menu ()
+    public void PLaySound()
     {
-        UnityEngine.SceneManagement.SceneManager.LoadScene("SampleScene");
+        audio.Play();
+    }
+    public void OnMouseDown()
+    {
+        audio.Play();
     }
     // Update is called once per frame
     void Update()

@@ -14,10 +14,7 @@ public class wolfsound : MonoBehaviour
     {
         audio.Play();
     }
-    public void OnMouseDown()
-    {
-        audio.Play();
-    }
+
     // Update is called once per frame
     void Update()
     {
